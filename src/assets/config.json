@@ -1,0 +1,29 @@
+[
+    {
+      "FactoryArea": "LIHSING",
+      "Function": [
+        {
+          "Classification": "人",
+          "Option": [
+            {
+              "Name": "今日上班概況"
+            },
+            {
+              "Name": "中餐用餐概況"
+            }
+          ]
+        },
+        {
+          "Classification": "環",
+          "Option": [
+            {
+              "Name": "CO2含量"
+            },
+            {
+              "Name": "攝影機即時狀況"
+            }
+          ]
+        }
+      ]
+    }
+  ]

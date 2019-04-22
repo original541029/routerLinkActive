@@ -1,0 +1,5 @@
+<div class="bg-light border-right" >
+  <div class="list-group list-group-flush" *ngFor="let datas of data.Function[id].Option,let i=index">
+    <a routerLink="/dashBoard/{{id}}/{{i}}" routerLinkActive="linkActive"  >{{datas.Name}}</a>
+  </div>
+</div>
